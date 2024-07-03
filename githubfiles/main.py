@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((1300, 900))
 
 # Load background images
 background = pygame.image.load("back.jpg")
-welcome_page = pygame.image.load("s.png")
+welcome_page = pygame.image.load("welcomewindow.png")
 
 # Load and play background music
 mixer.music.load("background.wav")
